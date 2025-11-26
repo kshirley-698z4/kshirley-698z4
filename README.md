@@ -1,63 +1,38 @@
-<!--
+### Hi there 👋
 
-Thank you if you like this profile README!
-
-BUT, please DO NOT copy this and create your profile based on it.
-
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
-
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
-
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— ouuan (https://github.com/ouuan)
-
--->
-
-My name is Shirley Kong. I'm a first-year master's student at Shandong University in China.
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
-
--   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
+I'm **Shirley Kong**, a Computer Science student at Shandong University, based in Jinan, China.
 
 ---
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+#### About Me
 
-
+- 🎓 Undergraduate student majoring in Computer Science
+- 🔗 Passionate about **Blockchain** and **AI**
+- 🌱 Currently exploring Web3 development, especially **Move language** and smart contracts on **Sui**
+- 🦀 Learning **Rust** and **Solidity** in my spare time
+- 💻 Part-time contributor to open-source projects
+- 🔍 Looking for internship opportunities in blockchain development
 
 ---
 
+#### Tech Stack
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Move](https://img.shields.io/badge/-Move-4A90E2?style=flat)
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+#### Currently Learning
 
-<!--START_SECTION:waka-->
+- Sui blockchain development
+- Smart contract security
+- DeFi protocols
 
-```txt
-Markdown           16 hrs 1 mins   🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.49 %
-Python             12 hrs 37 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.08 %
-Rust               5 hrs 21 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.51 %
-C                  3 hrs 30 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.56 %
-Makefile           3 hrs 17 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.23 %
-```
+---
 
-<!--END_SECTION:waka-->
+#### Contact
+
+Feel free to reach out if you want to collaborate on Web3 projects!
