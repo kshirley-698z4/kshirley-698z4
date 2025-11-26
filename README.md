@@ -8,8 +8,8 @@ I'm **Shirley Kong**, a Computer Science student at Shandong University, based i
 
 - 🎓 Undergraduate student majoring in Computer Science
 - 🔗 Passionate about **Blockchain** and **AI**
-- 🌱 Currently exploring Web3 development, especially **Move language** and smart contracts on **Sui**
-- 🦀 Learning **Rust** and **Solidity** in my spare time
+- 🌱 Currently exploring Web3 development, especially **Solidity** and smart contracts on **Ethereum**
+- 🦀 Learning **Rust** and **Solana** development in my spare time
 - 💻 Part-time contributor to open-source projects
 - 🔍 Looking for internship opportunities in blockchain development
 
@@ -19,17 +19,17 @@ I'm **Shirley Kong**, a Computer Science student at Shandong University, based i
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Move](https://img.shields.io/badge/-Move-4A90E2?style=flat)
 
 ---
 
 #### Currently Learning
 
-- Sui blockchain development
-- Smart contract security
+- Ethereum smart contract development
 - DeFi protocols
+- Solana program development
 
 ---
 
